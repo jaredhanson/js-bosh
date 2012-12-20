@@ -1,0 +1,35 @@
+{
+  "name": "bosh",
+  "version": "0.0.0",
+  "description": "BOSH module for Anchor.js.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaredhanson/js-bosh.git"
+  },
+  "bugs": {
+    "url": "http://github.com/jaredhanson/js-bosh/issues"
+  },
+  "author": {
+    "name": "Jared Hanson",
+    "email": "jaredhanson@gmail.com",
+    "url": "http://www.jaredhanson.net/"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "main",
+  "amd": {},
+  "volo": {
+    "baseUrl": "vendor",
+    "dependencies": {
+      "class": "github:anchorjs/class/master",
+      "events": "github:anchorjs/events/master",
+      "ajax": "github:anchorjs/ajax/master",
+      "xml": "github:anchorjs/xml/master",
+      "debug": "github:anchorjs/debug/master"
+    }
+  }
+}
