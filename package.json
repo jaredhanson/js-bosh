@@ -32,6 +32,7 @@
     "dependencies": {
       "class": "github:anchorjs/class/master",
       "events": "github:anchorjs/events/master",
+      "url": "github:anchorjs/url/master",
       "ajax": "github:anchorjs/ajax/master",
       "xml": "github:anchorjs/xml/master",
       "debug": "github:anchorjs/debug/master"

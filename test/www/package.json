@@ -5,6 +5,7 @@
       "require": "github:jrburke/requirejs/2.0.6",
       "class": "github:anchorjs/class/master",
       "events": "github:anchorjs/events/master",
+      "url": "github:anchorjs/url/master",
       "ajax": "github:anchorjs/ajax/master",
       "xml": "github:anchorjs/xml/master",
       "debug": "github:anchorjs/debug/master",
