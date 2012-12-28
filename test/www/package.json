@@ -1,0 +1,18 @@
+{
+  "volo": {
+    "baseUrl": "js/lib",
+    "dependencies": {
+      "require": "github:jrburke/requirejs/2.0.6",
+      "class": "github:anchorjs/class/master",
+      "events": "github:anchorjs/events/master",
+      "ajax": "github:anchorjs/ajax/master",
+      "xml": "github:anchorjs/xml/master",
+      "debug": "github:anchorjs/debug/master",
+      "mocha": "github:visionmedia/mocha/1.4.2",
+      "chai": "github:chaijs/chai/1.2.0",
+      "punycode": "github:bestiejs/punycode.js/1.1.1",
+      "querystring": "github:anchorjs/querystring/master",
+      "url": "github:anchorjs/url/master"
+    }
+  }
+}

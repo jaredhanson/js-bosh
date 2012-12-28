@@ -21,9 +21,14 @@
     }
   ],
   "main": "main",
-  "amd": {},
+  "devDependencies": {
+    "express": "3.x.x",
+    "mocha-phantomjs": "1.x.x",
+    "mocha-cloud": "0.0.1",
+    "term-canvas": "0.0.5",
+    "mocha-cloud-grid-view": "0.0.1"
+  },
   "volo": {
-    "baseUrl": "vendor",
     "dependencies": {
       "class": "github:anchorjs/class/master",
       "events": "github:anchorjs/events/master",
