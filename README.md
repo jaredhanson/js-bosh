@@ -28,7 +28,7 @@ Send XML payloads.
 ```javascript
 var message = xml('message', { to: 'romeo@example.net' })
                 .c('body').t('Art thou not Romeo, and a Montague?').root();
-stream.send(m);
+stream.send(message);
 ```
 
 Process incoming XML payloads.
