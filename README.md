@@ -63,10 +63,6 @@ To run tests in a browser, execute the Make target for the desired browser:
 To run headless tests from a terminal using [PhantomJS](http://phantomjs.org/):
 
     $ make test-phantomjs
-    
-##### Status
-
-[![Travis CI](https://secure.travis-ci.org/jaredhanson/js-sasl.png)](http://travis-ci.org/jaredhanson/js-sasl)
 
 ## Credits
 
