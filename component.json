@@ -1,0 +1,15 @@
+{
+  "name": "bosh",
+  "version": "0.0.0",
+  "description": "BOSH module for Anchor.js.",
+  "repo": "jaredhanson/js-bosh",
+  "main": "main.js",
+  "scripts": [
+    "main.js",
+    "lib/errors/bosherror.js",
+    "lib/request.js",
+    "lib/stream.js",
+    "lib/utils.js"
+  ],
+  "license": "MIT"
+}
