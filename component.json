@@ -11,5 +11,8 @@
     "lib/stream.js",
     "lib/utils.js"
   ],
+  "dependencies": {
+    "anchorjs/class": "*"
+  },
   "license": "MIT"
 }
