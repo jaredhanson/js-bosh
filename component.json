@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "BOSH module for Anchor.js.",
   "repo": "jaredhanson/js-bosh",
+  "license": "MIT",
   "main": "main.js",
   "scripts": [
     "main.js",
@@ -13,6 +14,5 @@
   ],
   "dependencies": {
     "anchorjs/class": "*"
-  },
-  "license": "MIT"
+  }
 }
